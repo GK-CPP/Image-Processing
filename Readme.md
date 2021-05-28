@@ -13,8 +13,7 @@ The implemented Sauvola method uses integral images for fast computation of the 
 
 ## Clean Image adding Noise(image)
 
-images 
-# -----------------------
+-----------------------
 <img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/in_1.jpg" width="300" height="400" >
 <p><b>Clean Image</b></p>
 <img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/nos_1.JPG" width="300" height="400">
@@ -24,8 +23,7 @@ images
 
 ## Image_Crop_and_Reconstructed
 
-images 
-# -----------------------
+-----------------------
 <img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/in_2.png" width="300" height="400" >
 <p><b>full Image</b></p>
 <img src="https://github.com/GK-CPP/Image-Processing/blob/master/images/mid_2.png" width="300" height="400">
